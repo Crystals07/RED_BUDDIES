@@ -1,4 +1,4 @@
-#RED_BUDDIES
+ #  RED_BUDDIES
  
  This is a simple read me file for my project 
 
@@ -10,7 +10,7 @@
 
  * It provides a new approach of voluntary blood donation using technical platforms 
 
-# # Technology Used
+ # Technology Used
 
 * Android
 
@@ -18,11 +18,11 @@
 
 * Firebase
 
-# # Pros
+ # Pros
 
 * Real time database is used
 
-* Secure Authentication (Only few are yet to be added)
+* Secure Authentication (  Only few are yet to be added )
 
 * Open source project 
 
@@ -32,7 +32,7 @@
 
 * Also generates crash reports and easy to moniter authenticated emails
 
-# #  Database 
+ #  Database 
 
  Firebase is used for authentication,Real time database and for crash reports generation
 
@@ -56,20 +56,4 @@
 
  Entire donar list.
 
-# # Project Guide
-
- * Install Android studio or eclipse ide
-
- * Create a account in firebase
-
- * Set authentication type in firebase 
-
- * Follow firebase guide
-
- * Paste google service.json file from firebase
-
- * Monitor authencation in your firebase account
-
- * Set Real time database in firebase
-
- * You can use another database but make sure to optimize queries
+ 
